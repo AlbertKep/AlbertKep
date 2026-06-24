@@ -3,11 +3,24 @@
 Frontend developer focused on React, TypeScript and clean, readable code.
 I build small web apps to practice component architecture, UI/UX patterns and real‑world workflows.
 
-## 🔧 Tech Stack
+### 🔧 Tech Stack
 React • TypeScript • Firebase • Styled Components • Vite • Framer Motion • REST API • GitHub • VS Code
 
-## 🎯 Learning Goals
+### 🎯 Learning Goals
 Next.js • Unit testing (Jest, React Testing Library)
+
+### 🚀 Projects
+
+#### My Wallet
+Expense‑tracking app built with React, TypeScript and Firebase.  
+Live: (coming soon)  
+Repo: AlbertKep/MyWallet
+
+### Hangman Game
+Simple hangman game with animations and clean logic.  
+Live: (coming soon)  
+Repo: AlbertKep/Hangman
+
 <!--
 **AlbertKep/AlbertKep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
