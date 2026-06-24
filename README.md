@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi, I'm Albert 👋
 
+## Frontend developer focused on React, TypeScript and clean, readable code.
+I build small web apps to practice component architecture, UI/UX patterns and real‑world workflows.
 <!--
 **AlbertKep/AlbertKep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
