@@ -3,10 +3,10 @@
 Frontend developer focused on React, TypeScript and clean, readable code.
 I build small web apps to practice component architecture, UI/UX patterns and real‑world workflows.
 
-#🔧 Tech Stack
+# 🔧 Tech Stack
 React • TypeScript • Firebase • Styled Components • Vite • Framer Motion • REST API • GitHub • VS Code
 
-#🎯 Learning Goals
+# 🎯 Learning Goals
 Next.js • Unit testing (Jest, React Testing Library)
 <!--
 **AlbertKep/AlbertKep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
