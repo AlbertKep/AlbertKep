@@ -13,7 +13,8 @@ Next.js • Unit testing (Jest, React Testing Library)
 
 #### My Wallet
 Expense‑tracking app built with React, TypeScript and Firebase.  
-Live: (coming soon)  
+Live: [My Wallet  ](https://my-wallet-live.netlify.app/)
+
 Repo: AlbertKep/MyWallet
 
 ### Hangman Game
